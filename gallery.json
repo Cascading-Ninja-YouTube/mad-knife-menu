@@ -1,0 +1,83 @@
+[
+    {
+        "id":1,
+        "image":"DSC_0029.jpg",
+        "firstLine":"Crispy Chicken Folds",
+        "secondLine":""
+    },
+    {
+        "id":2,
+        "image":"DSC_0033.jpg",
+        "firstLine":"Crunchy Chicken Cheese Folds",
+        "secondLine":""
+    },
+    {
+        "id":3,
+        "image":"DSC_0041-Edit.jpg",
+        "firstLine":"Crsipy Creepy Chicken",
+        "secondLine":""
+    },
+    {
+        "id":4,
+        "image":"DSC_0073-Edit.jpg",
+        "firstLine":"Crsipy Creepy Chicken",
+        "secondLine":""
+    },
+    {
+        "id":5,
+        "image":"DSC_0084.jpg",
+        "firstLine":"Crsipy Creepy Chicken",
+        "secondLine":""
+    },
+    {
+        "id":6,
+        "image":"DSC_0085.jpg",
+        "firstLine":"Crsipy Creepy Chicken",
+        "secondLine":""
+    },
+    {
+        "id":6,
+        "image":"DSC_0138-Edit.jpg",
+        "firstLine":"All Dishes",
+        "secondLine":""
+    },
+    {
+        "id":7,
+        "image":"DSC_0150.jpg",
+        "firstLine":"Big Fatty",
+        "secondLine":""
+    },
+    {
+        "id":8,
+        "image":"DSC_0150.jpg",
+        "firstLine":"Big Fatty",
+        "secondLine":""
+    }
+    ,
+    {
+        "id":9,
+        "image":"DSC_5802-Edit.JPG",
+        "firstLine":"Chicken Chees Buns",
+        "secondLine":""
+    }
+    ,
+    {
+        "id":10,
+        "image":"DSC_5832.JPG",
+        "firstLine":"Crunchy Potato Fries",
+        "secondLine":""
+    }
+    ,
+    {
+        "id":11,
+        "image":"DSC_5856-Edit.JPG",
+        "firstLine":"Spices",
+        "secondLine":""
+    } ,
+    {
+        "id":12,
+        "image":"DSC_9697-Edit.jpg",
+        "firstLine":"Big Fatty",
+        "secondLine":""
+    }
+]

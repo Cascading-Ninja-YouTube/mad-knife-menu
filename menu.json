@@ -1,0 +1,61 @@
+[
+    {
+        "id":1,
+        "recipeName":"Big Fatty",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":true,
+        "price":"",
+        "image":"1.png"
+    }
+    ,
+    {
+        "id":2,
+        "recipeName":"Crunchy Fries",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":false,
+        "price":"",
+        "image":"2.png"
+    }
+    ,
+    {
+        "id":3,
+        "recipeName":"Crispy Chicken Folds",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":false,
+        "price":"",
+        "image":"3.png"
+    }
+    ,
+    {
+        "id":4,
+        "recipeName":"Chicken Cheese Bun",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":false,
+        "price":"",
+        "image":"4.png"
+    }
+    ,
+    {
+        "id":5,
+        "recipeName":"Crispy Creepy Folds",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":true,
+        "price":"",
+        "image":"5.png"
+    }
+    ,
+    {
+        "id":6,
+        "recipeName":"Crunchy Chicken Cheese Folds",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":true,
+        "price":"",
+        "image":"6.png"
+    }
+]

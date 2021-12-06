@@ -1,82 +1,82 @@
 [
     {
         "id":1,
-        "image":"DSC_0029.jpg",
+        "image":"1.png",
         "firstLine":"Crispy Chicken Folds",
         "secondLine":""
     },
     {
         "id":2,
-        "image":"DSC_0033.jpg",
+        "image":"2.png",
         "firstLine":"Crunchy Chicken Cheese Folds",
         "secondLine":""
     },
     {
         "id":3,
-        "image":"DSC_0041-Edit.jpg",
+        "image":"3.png",
         "firstLine":"Crsipy Creepy Chicken",
         "secondLine":""
     },
     {
         "id":4,
-        "image":"DSC_0073-Edit.jpg",
+        "image":"4.png",
         "firstLine":"Crsipy Creepy Chicken",
         "secondLine":""
     },
     {
         "id":5,
-        "image":"DSC_0084.jpg",
+        "image":"5.png",
         "firstLine":"Crsipy Creepy Chicken",
         "secondLine":""
     },
     {
         "id":6,
-        "image":"DSC_0085.jpg",
+        "image":"6.png",
         "firstLine":"Crsipy Creepy Chicken",
-        "secondLine":""
-    },
-    {
-        "id":6,
-        "image":"DSC_0138-Edit.jpg",
-        "firstLine":"All Dishes",
         "secondLine":""
     },
     {
         "id":7,
-        "image":"DSC_0150.jpg",
-        "firstLine":"Big Fatty",
+        "image":"7.png",
+        "firstLine":"All Dishes",
         "secondLine":""
     },
     {
         "id":8,
-        "image":"DSC_0150.jpg",
+        "image":"8.png",
         "firstLine":"Big Fatty",
         "secondLine":""
-    }
-    ,
+    },
     {
         "id":9,
-        "image":"DSC_5802-Edit.JPG",
-        "firstLine":"Chicken Chees Buns",
+        "image":"9.png",
+        "firstLine":"Big Fatty",
         "secondLine":""
     }
     ,
     {
         "id":10,
-        "image":"DSC_5832.JPG",
-        "firstLine":"Crunchy Potato Fries",
+        "image":"10.png",
+        "firstLine":"Chicken Chees Buns",
         "secondLine":""
     }
     ,
     {
         "id":11,
-        "image":"DSC_5856-Edit.JPG",
+        "image":"11.png",
+        "firstLine":"Crunchy Potato Fries",
+        "secondLine":""
+    }
+    ,
+    {
+        "id":12,
+        "image":"12.png",
         "firstLine":"Spices",
         "secondLine":""
     } ,
     {
-        "id":12,
-        "image":"DSC_9697-Edit.jpg",
+        "id":13,
+        "image":"13.png",
         "firstLine":"Big Fatty",
         "secondLine":""
     }

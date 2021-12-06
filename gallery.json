@@ -73,11 +73,5 @@
         "image":"12.png",
         "firstLine":"Spices",
         "secondLine":""
-    } ,
-    {
-        "id":13,
-        "image":"13.png",
-        "firstLine":"Big Fatty",
-        "secondLine":""
-    }
+    } 
 ]

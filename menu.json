@@ -17,7 +17,7 @@
         "recipeDescription":"",
         "specials":false,
         "price":"",
-        "veg":false,
+        "veg":true,
         "image":"2.png"
     }
     ,

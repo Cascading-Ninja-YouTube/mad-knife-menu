@@ -6,6 +6,7 @@
         "recipeDescription":"",
         "specials":true,
         "price":"",
+        "veg":false,
         "image":"1.png"
     }
     ,
@@ -16,6 +17,7 @@
         "recipeDescription":"",
         "specials":false,
         "price":"",
+        "veg":false,
         "image":"2.png"
     }
     ,
@@ -26,6 +28,7 @@
         "recipeDescription":"",
         "specials":false,
         "price":"",
+        "veg":true,
         "image":"3.png"
     }
     ,
@@ -36,6 +39,7 @@
         "recipeDescription":"",
         "specials":false,
         "price":"",
+        "veg":false,
         "image":"4.png"
     }
     ,
@@ -46,6 +50,7 @@
         "recipeDescription":"",
         "specials":true,
         "price":"",
+        "veg":false,
         "image":"5.png"
     }
     ,
@@ -56,6 +61,7 @@
         "recipeDescription":"",
         "specials":true,
         "price":"",
+        "veg":false,
         "image":"6.png"
     }
 ]

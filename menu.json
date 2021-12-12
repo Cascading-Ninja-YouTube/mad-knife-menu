@@ -11,8 +11,8 @@
     ,
     {
         "id":2,
-        "recipeName":"Crunchy Fries",
-        "servings":"1 pc per serving",
+        "recipeName":"Potato Chips",
+        "servings":"1 portion per serving",
         "recipeDescription":"",
         "specials":false,
         "price":"",
@@ -21,7 +21,7 @@
     ,
     {
         "id":3,
-        "recipeName":"Crispy Chicken Folds",
+        "recipeName":"Crispy Creepy Folds",
         "servings":"1 pc per serving",
         "recipeDescription":"",
         "specials":false,
@@ -41,8 +41,8 @@
     ,
     {
         "id":5,
-        "recipeName":"Crispy Creepy Folds",
-        "servings":"1 pc per serving",
+        "recipeName":"Crunchy Fries",
+        "servings":"2 pc per serving",
         "recipeDescription":"",
         "specials":true,
         "price":"",

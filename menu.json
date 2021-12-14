@@ -28,8 +28,8 @@
         "recipeDescription":"",
         "specials":false,
         "price":"",
-        "veg":true,
-        "image":"7.png"
+        "veg":false,
+        "image":"3.png"
     }
     ,
     {
@@ -63,5 +63,15 @@
         "price":"",
         "veg":false,
         "image":"6.png"
+    } ,
+    {
+        "id":7,
+        "recipeName":"Crispy Creepy Folds",
+        "servings":"1 pc per serving",
+        "recipeDescription":"",
+        "specials":true,
+        "price":"",
+        "veg":true,
+        "image":"7.png"
     }
 ]
